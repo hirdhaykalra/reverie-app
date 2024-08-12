@@ -1,0 +1,17 @@
+.likeIcon {
+    color: currentColor;
+    transition: color 0.2s ease;
+    cursor: pointer;
+}
+
+.likeIcon:hover {
+    color: violet;
+}
+
+.text-violet {
+    color: violet;
+}
+
+.text-gray {
+    color: gray;
+}
